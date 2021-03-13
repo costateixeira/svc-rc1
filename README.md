@@ -1,6 +1,6 @@
 WHO Smart Vaccination Card (SVC) - Release Candidate 1 (RC1) IG
 ---
-This is the WHO Smart Vaccination Card (SVC) IF
+This is the WHO Smart Vaccination Card (SVC) IG
 <br> </br>
 ###
 ### Publication
