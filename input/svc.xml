@@ -15,7 +15,7 @@
       <value value="https://www.who.int"/>
     </telecom>
   </contact>
-  <description value="Smart Vaccination Certificate - RC1"/>
+  <description value="Smart Vaccination Certificate - RC1 - Master"/>
   <packageId value="fhir.who.svc-rc1"/>
   <license value="CC0-1.0"/>
   <fhirVersion value="4.0.1"/>
